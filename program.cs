@@ -7,7 +7,7 @@ class Program
         Journal journal = new Journal();
         while (true)
         {
-            Console.WriteLine("1. Write a new line");
+            Console.WriteLine("1. Write a line");
             Console.WriteLine("2. Display the Journal");
             Console.WriteLine("3. Save the journal to a file");
             Console.WriteLine("4. Load the journal from a file");
