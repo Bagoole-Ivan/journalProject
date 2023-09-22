@@ -11,7 +11,7 @@ class Program
             Console.WriteLine("2. Display the Journal");
             Console.WriteLine("3. Save the journal to a file");
             Console.WriteLine("4. Load the journal from a file");
-            Console.WriteLine("5. Exit");
+            Console.WriteLine("5. Press and key to exit");
             int choice = int.Parse(Console.ReadLine());
             if (choice == 1)
             {
